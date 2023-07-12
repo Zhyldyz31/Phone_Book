@@ -28,6 +28,7 @@ int main() {
   dump(&pb1,"file.txt");
 
   destroy(&pb1);
+  printf("Byeee");
 
   return 1;
 }
